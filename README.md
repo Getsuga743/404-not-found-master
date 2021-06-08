@@ -35,5 +35,5 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 ### Built With
 
-Html and Ccss
+Html and Css
 
